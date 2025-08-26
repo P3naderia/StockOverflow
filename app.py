@@ -11,7 +11,7 @@ import io
 # 페이지 설정
 st.set_page_config(
     page_title="AI 재고 예측 시스템",
-    page_icon="🧠",
+    page_icon="https://commons.wikimedia.org/wiki/File:Amazon_icon.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
